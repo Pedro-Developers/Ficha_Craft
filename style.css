@@ -519,6 +519,7 @@
     .footer-top{ grid-template-columns: 1fr; }
   }
 
+<<<<<<< HEAD
    body {
     background-color: #000000;
     color: #ffffff;
@@ -544,6 +545,8 @@ h1 {
     letter-spacing: 1px;
 }
 
+=======
+>>>>>>> 6d62652d39f44471a70735c7f2d6ac0447189a80
 .sobre-content {
     display: grid;
     gap: 1.5rem;
@@ -572,4 +575,8 @@ h1 {
     color: #ffffff;
     margin-top: 1rem;
     letter-spacing: 0.5px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6d62652d39f44471a70735c7f2d6ac0447189a80
