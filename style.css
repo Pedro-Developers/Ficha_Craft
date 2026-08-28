@@ -92,7 +92,7 @@
     border-radius: 4px;
   }
  
-  /* ============ BUTTONS ============ */
+
   .btn{
     display: inline-flex;
     align-items: center;
@@ -128,7 +128,7 @@
   }
   .btn-gold:hover{ box-shadow: 0 10px 26px rgba(232,179,76,0.35); }
  
-  /* ============ HEADER / NAVBAR ============ */
+ 
   header.site-header{
     position: sticky;
     top: 0;
@@ -204,7 +204,7 @@
     .nav-links.open .nav-cta-mobile{ display: inline-flex; margin-top: 6px; }
   }
  
-  /* ============ HERO ============ */
+
   .hero{
     padding: 88px 0 60px;
     position: relative;
@@ -300,7 +300,7 @@
     .sheet-card{ display: none; }
   }
  
-  /* ============ SOBRE ============ */
+ 
   .sobre{ background: var(--bg-alt); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
   .sobre-grid{
     display: grid;
@@ -334,7 +334,7 @@
     .sobre-grid{ grid-template-columns: 1fr; gap: 40px; }
   }
  
-  /* ============ RECURSOS ============ */
+ 
   .cards-grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -362,7 +362,7 @@
   @media (max-width: 900px){ .cards-grid{ grid-template-columns: 1fr 1fr; } }
   @media (max-width: 600px){ .cards-grid{ grid-template-columns: 1fr; } }
  
-  /* ============ COMO FUNCIONA ============ */
+  
   .como-funciona{ background: var(--bg-alt); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
   .steps{
     display: grid;
@@ -484,7 +484,7 @@
     .form-row{ grid-template-columns: 1fr; }
   }
  
-  /* ============ FOOTER ============ */
+ 
   footer{
     padding: 56px 0 30px;
     border-top: 1px solid var(--border);
