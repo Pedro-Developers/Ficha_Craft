@@ -519,4 +519,32 @@
     .footer-top{ grid-template-columns: 1fr; }
   }
 
-  
+.sobre-content {
+    display: grid;
+    gap: 1.5rem;
+    align-content: center;
+    max-width: 800px;
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.sobre-title {
+    font-size: 1.6rem;
+    color: #b39ddb;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+.sobre-text {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: #e0e0e0;
+}
+
+.impact-text {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 1rem;
+    letter-spacing: 0.5px;
+}
